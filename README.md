@@ -2,9 +2,9 @@
 
 **<h2>Documentation</h2>**
 
-CUSTOM LETTERBOX CAMERA<br>
+CUSTOM LETTERBOX CAMERA for Unreal Engine 4.26<br>
 
-Thank you so much for downloading my plugin.<br>
+Thank you so much for downloading my Unreal plugin.<br>
 <br>
 Version: 1.0<br>
 Author: **Nishit Parikh**<br>
