@@ -7,7 +7,7 @@ CUSTOM LETTERBOX CAMERA<br>
 Thank you so much for downloading my plugin.<br>
 <br>
 Version: 1.0<br>
-Author: Nishit Parikh<br>
+Author: **Nishit Parikh**<br>
 Created: 28 June, 2021<br><br>
 If you have any questions that are beyond the scope of this help file, Please feel free to email on Support Mail.<br>
 
