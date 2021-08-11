@@ -8,7 +8,8 @@ Thank you so much for downloading my Unreal plugin.<br>
 <br>
 Version: 1.1<br>
 Author: **Nishit Parikh**<br>
-Created: 28 June, 2021<br><br>
+Created: 28 June, 2021<br>
+Updated:12 August,2021<br><br>
 If you have any questions that are beyond the scope of this help file, Please feel free to email on Support Mail.<br>
 
 **This plugins helps you have that letterbox/Filmgate in your camera that you had in your DCC Engines such as 3ds Max, Maya, Blender, etc. This helps in where a Director/Cinematographer wants to see the frame with a specific aspect ratio in his mind.**
