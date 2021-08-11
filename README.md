@@ -6,7 +6,7 @@ CUSTOM LETTERBOX CAMERA for Unreal Engine 4.26<br>
 
 Thank you so much for downloading my Unreal plugin.<br>
 <br>
-Version: 1.1br>
+Version: 1.1<br>
 Author: **Nishit Parikh**<br>
 Created: 28 June, 2021<br><br>
 If you have any questions that are beyond the scope of this help file, Please feel free to email on Support Mail.<br>
@@ -44,5 +44,3 @@ You can use the plugin also in the sequencer to render out with letterbox
 **Letterbox - False**
 ![8](https://user-images.githubusercontent.com/51084113/123690847-82f68f00-d872-11eb-857c-45ea64ad4b6a.png)
 
-<br>Version 1.1 (28 June, 2021)<br>
-Added Focus Distance and list of standard values for Film Gate.
