@@ -6,12 +6,12 @@ CUSTOM LETTERBOX CAMERA for Unreal Engine 4.26<br>
 
 Thank you so much for downloading my Unreal plugin.<br>
 <br>
-Version: 1.0<br>
+Version: 1.1br>
 Author: **Nishit Parikh**<br>
 Created: 28 June, 2021<br><br>
 If you have any questions that are beyond the scope of this help file, Please feel free to email on Support Mail.<br>
 
-**This plugins helps you have that letter box in your camera that you had in your DCC Engines such as 3ds Max, Maya, Blender, etc. This helps in where a Director/Cinematographer wants to see the frame with a specific aspect ratio in his mind.**
+**This plugins helps you have that letterbox/Filmgate in your camera that you had in your DCC Engines such as 3ds Max, Maya, Blender, etc. This helps in where a Director/Cinematographer wants to see the frame with a specific aspect ratio in his mind.**
 <br>
 
 You can use the plugin also in the sequencer to render out with letterbox
@@ -44,5 +44,5 @@ You can use the plugin also in the sequencer to render out with letterbox
 **Letterbox - False**
 ![8](https://user-images.githubusercontent.com/51084113/123690847-82f68f00-d872-11eb-857c-45ea64ad4b6a.png)
 
-<br>Version 1.0 (28 June, 2021)<br>
-Initial Release
+<br>Version 1.1 (28 June, 2021)<br>
+Added Focus Distance and list of standard values for Film Gate.
