@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Custom Letterbox Camera",
+	"Description": "Custom LetterBox Plugin helps add the custom letter box settings that cinematagrapher gives in other DCC Engines",
+	"Category": "Previz",
+	"CreatedBy": "Nishit Parikh",
+	"CreatedByURL": "www.realscape.in",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.27.0",
+	"CanContainContent": true,
+	"Installed": true
+}
